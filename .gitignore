@@ -1,5 +1,12 @@
 node_modules/
 .next/
-assets/
+out/
+build/
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+
+# Project-specific
 .agents/
+assets/
 skills-lock.json
